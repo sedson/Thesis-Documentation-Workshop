@@ -2,7 +2,6 @@
 
 ## Wesleyan Art Studio 2021
 
-## Me
 Seamus Edson (he/him) – Graphic Design 2018
 
 sedson@welseyan.edu – if you have questions or issues!
@@ -20,14 +19,16 @@ sedson@welseyan.edu – if you have questions or issues!
 
 Year_Medium_LastName_ImageNumber
 
-#### [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSdTEo5e4PZmV98Fhplg8aZ9mg9BBXnt0_P0BGS3t8pmUVqBmw/viewform)
+#### Submission Link
+
+[Submit Here](https://docs.google.com/forms/d/e/1FAIpQLSdTEo5e4PZmV98Fhplg8aZ9mg9BBXnt0_P0BGS3t8pmUVqBmw/viewform)
 
 
 ## Overview
 
-1. Managing files
-1. Color correcting
-1. Resizing and Exporting
+1. Managing files with Finder or Bridge
+1. Basic Editing and Color Correcting in Photoshop
+1. Resizing and Exporting from Photoshop
 
 
 ## 1 – Managing Files
@@ -54,8 +55,11 @@ Organizing your files will make things go smoother. You can do this with either 
 
 ### With Adobe Bridge
 
-1. Open Bridge
-1.
+1. Gather all your raw photos in a single place (on a memory card or external drive if working on a lab machine). I wish had made (at least) two copies of this drive! I put all my thesis photos on one memory card which I lost on move out day – so about half of my orignal photo files are gone.
+1. Create a folder for your raw selects and for your edited selects
+1. Open Adobe Bridge and navigate to your working location – ex: `Computer > MemoryCard > Thesis > Photos`
+1. Drag this folder onto the `Favorites` area so you can access it quickly
+1. Find the `Collections` tab (middle left) and use the `+` button to create a new collection  
 
 
 
