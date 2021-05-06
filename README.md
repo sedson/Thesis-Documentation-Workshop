@@ -28,7 +28,7 @@ Year_Medium_LastName_ImageNumber
 
 1. Managing files with Finder or Bridge
 1. Basic Editing and Color Correcting in Photoshop
-1. Resizing and Exporting from Photoshop
+1. Resizing and Exporting from Bridge
 
 
 ## 1 – Managing Files
@@ -85,13 +85,35 @@ In Bridge (or Finder), duplicate the RAW folder and rename it something like `wo
 To start processing, double click on a photo from Bridge. If it is a RAW file, it will open in the raw Editor. Here are the most important settings:
 
 In the EDIT PANEL (E)
+
 > BASIC AREA
 > - `Basic > White Balance` is the best way to adjust the overall color temperature – use the eye-dropper then click on a nuetral pert of the image to get a head start
 > - `Basic > Exposure` to set the overall brightness
 > - Play around with the rest of the Basic settings to get the image looking how you want
 
 > OPTICS AREA - for dealing with known distortions caused by camera or lens
-> I like to test both `Optics > ✅ Remove Chromatic aberration` and `✅ Use profile corrections` to see if it imporves the image quality
+> - I like to test both `Optics > ✅ Remove Chromatic aberration` and `✅ Use profile corrections` to see if it imporves the image quality
 
-> GEOMETRY AREA - for adjusting aligment issues
-> I prefer to do these correction in Photoshop – but this is a quick way of handling it
+> GEOMETRY AREA - for adjusting perspective distortion
+> - I prefer to do these corrections in Photoshop – but this is sometimes quicker
+
+> CURVE AREA - fine tuned image control
+>  -The `Targeted adjustment tool (T)` is really good for getting intuitive contol over certain regions of the image.
+
+In the CROP PANEL (C)
+
+> Crop (obviously)
+> - But also Straighten – double click the little ruler to do an auto Straighten, or click it once then draw a line on your image where you want it to be straight
+
+If you are happy with these changes, hit `Done`. If you want to edit further in Photoshop hit `Open`.
+
+Once you open the photo in photoshop, save it as a `.PSD` inside the `working_files` folder. That way you can export to the final jpegs all from Bridge.
+
+## 3 – Resizing and Exporting
+
+This is going to be a quick one. In Bridge, find the `Export` area (left middle). Press the `+ Create new Preset Button` and update the settings to match these:
+![export jpeg](screenshots/export_jpeg.png)
+
+
+For the earlier step – you can use these settings to export the raw files to your RAW folder:
+![export jpeg](screenshots/export_settings.png)
