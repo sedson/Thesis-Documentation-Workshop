@@ -51,6 +51,11 @@ Organizing your files will make things go smoother. You can do this with either 
     ├── 🖼️ 2021_GraphicDesign_Edson_01.jpg
     ...
     ├── 🖼️ 2021_GraphicDesign_Edson_10.jpg
+
+└── 📁 Working_Files
+    ├── 🖼️ 2021_GraphicDesign_Edson_01.psd
+    ...
+    ├── 🖼️ 2021_GraphicDesign_Edson_10.psd
 ```
 
 ### With Adobe Bridge
@@ -58,8 +63,16 @@ Organizing your files will make things go smoother. You can do this with either 
 1. Gather all your raw photos in a single place (on a memory card or external drive if working on a lab machine). I wish had made (at least) two copies of this drive! I put all my thesis photos on one memory card which I lost on move out day – so about half of my orignal photo files are gone.
 1. Create a folder for your raw selects and for your edited selects
 1. Open Adobe Bridge and navigate to your working location – ex: `Computer > MemoryCard > Thesis > Photos`
+  - Make sure you are in the `Essentials` works space (top center)
 1. Drag this folder onto the `Favorites` area so you can access it quickly
-1. Find the `Collections` tab (middle left) and use the `+` button to create a new collection  
+1. Find the `Collections` tab (middle left) and right click to create a new collection
+1. Add photos to your collection with drag and drop
+1. Can play around with using the star ratings and filters to narrow down photos
+1. Once you have the 10ish photos in your collection you have 2 options to export:
+  - find the `Exports` tab and `Create a New Preset` with these setings :
+  ![export settings](screenshots/Screen Shot 2021-05-06 at 12.32.05 PM.png)
+  - Create a new
+1.  
 
 
 
