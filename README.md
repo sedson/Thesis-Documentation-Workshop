@@ -22,21 +22,21 @@ sedson@welseyan.edu
 The goal here is to have build a folder structure something like this:
 
 ```
-Thesis_Documentation
-├── Source
-    ├── DSCF0738.RAF
-    ├── IMG_7435.CR2
+📁 Thesis_Documentation
+├── 📁 Source
+    ├── 📷 DSCF0738.RAF
+    ├── 📷 IMG_7435.CR2
     ...
 
-└── 2021_Edson_GraphicDesign_Raw
-    ├── 2021_Edson_GraphicDesign_01.RAF
+└── 📁 2021_Edson_GraphicDesign_Raw
+    ├── 📷 2021_Edson_GraphicDesign_01.RAF
     ...
-    ├── 2021_Edson_GrapicDesign_10.NEF
+    ├── 📷 2021_Edson_GrapicDesign_10.NEF
 
-└── 2021_Edson_GraphicDesign_Edited
-    ├── 2021_Edson_GraphicDesign_01.jpg
+└── 📁 2021_Edson_GraphicDesign_Edited
+    ├── 🖼️ 2021_Edson_GraphicDesign_01.jpg
     ...
-    ├── 2021_Edson_GraphicDesign_10.jpg
+    ├── 🖼️ 2021_Edson_GraphicDesign_10.jpg
 ```
 
 ### With Adobe Bridge
