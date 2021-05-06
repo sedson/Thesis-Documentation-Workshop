@@ -60,28 +60,38 @@ Organizing your files will make things go smoother. You can do this with either 
 
 ### With Adobe Bridge
 
-1. Gather all your raw photos in a single place (on a memory card or external drive if working on a lab machine). I wish had made (at least) two copies of this drive! I put all my thesis photos on one memory card which I lost on move out day – so about half of my orignal photo files are gone.
-1. Create a folder for your raw selects and for your edited selects
-1. Open Adobe Bridge and navigate to your working location – ex: `Computer > MemoryCard > Thesis > Photos` (Make sure you are in the `Essentials` workspace)
-1. Drag this folder onto the `Favorites` area so you can access it quickly. Also drag your `RAW` folder into favorites.
-1. Find the `Collections` tab (middle left) and right click to create a new collection
-1. Add photos to your collection with drag and drop
-1. Can play around with using the star ratings and filters to narrow down photos
-1. Once you have the 10ish photos in your collection, copy them into your raw folder by holding `Option` and dragging! **Important that you hold `option` the whole way – or else you'll be moving the files rather than copying them!!!**
-1. Another option here (my preference) is creating an export preset – see the section at the bottom.
-1. Now open the RAW folder and you can drag to rearrange the order of your files
-1. Now you can rename them - either one at a time or choose `Batch Rename` and fiddle with the settings to rename them all at once
-1. The RAW folder is now done, provided that you don't plan on adding or removing photos
+Gather all your raw photos in a single place (on a memory card or external drive if working on a lab machine). I wish had made (at least) two copies of this drive! I put all my thesis photos on one memory card which I lost on move out day – so about half of my orignal photo files are gone.
+
+Create a folder for your raw selects and for your edited selects.
+
+Open Adobe Bridge and navigate to your working location – ex: `Computer > MemoryCard > Thesis > Photos` (Make sure you are in the `Essentials` workspace.)
+
+Drag this folder onto the `Favorites` area so you can access it quickly. Also drag your `RAW` folder into favorites.
+
+Find the `Collections` tab (middle left) and right click to create a new collection.
+
+Add photos to your collection with drag and drop.
+
+Can play around with using the star ratings and filters to narrow down photos.
+
+Once you have the 10ish photos in your collection, copy them into your raw folder by holding `Option` and dragging! **Important that you hold `option` the whole way – or else you'll be moving the files rather than copying them!!!** Another option here (my preference) is creating an export preset – see the section at the bottom.
+Now open the RAW folder and you can drag to rearrange the order of your files.Now you can rename them - either one at a time or choose `Batch Rename` and fiddle with the settings to rename them all at once
+
+The RAW folder is now done, provided that you don't plan on adding or removing photos.
 
 ## 2 – Processing and Editing Photos
-1. In Bridge (or Finder), duplicate the RAW folder and rename it something like `working_files` – this is where photoshop documents are going to live
-1. To start processing, double click on a photo from Bridge. If it is a RAW file, it will open in the raw Editor. Here are the important things to look out for:
-> In the EDIT AREA (E)
+In Bridge (or Finder), duplicate the RAW folder and rename it something like `working_files` – this is where photoshop documents are going to live
+
+To start processing, double click on a photo from Bridge. If it is a RAW file, it will open in the raw Editor. Here are the most important settings:
+
+In the EDIT PANEL (E)
+> BASIC AREA
 > - `Basic > White Balance` is the best way to adjust the overall color temperature – use the eye-dropper then click on a nuetral pert of the image to get a head start
-> - `Basic > Exposure`
+> - `Basic > Exposure` to set the overall brightness
+> - Play around with the rest of the Basic settings to get the image looking how you want
 
+> OPTICS AREA - for dealing with known distortions caused by camera or lens
+> I like to test both `Optics > ✅ Remove Chromatic aberration` and `✅ Use profile corrections` to see if it imporves the image quality
 
-
-### Resources
-
-[Setting Color Space to Adobe RGB](https://www.photoshopessentials.com/basics/color-settings/)
+> GEOMETRY AREA - for adjusting aligment issues
+> I prefer to do these correction in Photoshop – but this is a quick way of handling it
