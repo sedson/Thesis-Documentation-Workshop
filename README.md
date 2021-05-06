@@ -1,14 +1,23 @@
-# Thesis Documentation Workshop part 2
+# Thesis Documentation Workshop – pt. 2
 
-## 2021
+## Wesleyan Art Studio 2021
 
-Seamus Edson
+Seamus Edson (he/him) – Graphic Design 2018
 
-Grad 2018
+sedson@welseyan.edu – if you have questions or issues!
 
-Graphic Design
+## File Requirements
 
-sedson@welseyan.edu
+#### Format and Quantity
+
+- Up to 10 images in a RAW format (CR2, NEF, RAW, DNG are all OK).
+- Up to 10 processed JPEGs, 4000 pixels on the long side.
+- If indicated by your advisor, please also submit time-based or interactive work in a format relevant to your particular medium.
+- For additional information on supported time-based or interactive work file types, please contact wesscholar@wesleyan.edu
+
+#### Naming convention
+
+Year_Medium_LastName_ImageNumber
 
 ## Overview
 
@@ -17,7 +26,7 @@ sedson@welseyan.edu
 1. Resizing and Exporting
 
 
-## Managing Files
+## 1 – Managing Files
 
 The goal here is to have build a folder structure something like this:
 
@@ -41,11 +50,7 @@ The goal here is to have build a folder structure something like this:
 
 ### With Adobe Bridge
 1. Open Bridge
-
-
-
-1. Open Adobe Bridge
-1. Navigate to the
+2.
 
 
 
