@@ -111,10 +111,14 @@ Once you open the photo in photoshop, save it as a `.PSD` inside the `working_fi
 
 ## 3 – Resizing and Exporting
 
-This is going to be a quick one. In Bridge, find the `Export` area (left middle). Press the `+ Create new Preset Button` and update the settings to match these:
+This is going to be a quick one. In Bridge, find the `Export` area (left middle). Press the `+ Create new Preset Button` and update the settings to match these – make sure to chose `Specific Folder` and select your `...Edited` folder: 
 
 ![export jpeg](screenshots/export_jpeg.png)
 
 For the earlier step – you can use these settings to export the raw files to your RAW folder:
 
 ![export jpeg](screenshots/export_settings.png)
+
+Then to export, all you have to do is drag your file onto the export preset and click `Export`
+
+
