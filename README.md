@@ -70,7 +70,7 @@ Organizing your files will make things go smoother. You can do this with either 
 1. Can play around with using the star ratings and filters to narrow down photos
 1. Once you have the 10ish photos in your collection you have 2 options to export:
   - find the `Exports` tab and `Create a New Preset` with these setings :
-  ![export settings](screenshots/Screen Shot 2021-05-06 at 12.32.05 PM.png)
+  ![export settings](screenshots/export_settings.png)
   - Create a new
 1.  
 
